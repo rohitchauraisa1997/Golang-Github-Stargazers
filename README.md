@@ -13,3 +13,5 @@ Solution for HRBrain Assignment.
 3. Wrong Reponame Execution
 ![image](https://user-images.githubusercontent.com/67869038/125777687-64d01176-6068-4346-a68d-246346dfe765.png)
 
+4. Go test output [Testcases]
+![image](https://user-images.githubusercontent.com/67869038/125790322-000a1b20-fa5b-4c87-9b44-5a69306f7ef1.png)
