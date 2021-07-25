@@ -1,5 +1,5 @@
-# Golang-HRBrain
-Solution for HRBrain Assignment.
+# Golang 
+Get the number of stargazers for a particular repo and user using github token.
 
 **export GITHUB_TOKEN="<github token>"
 **
